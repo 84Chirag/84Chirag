@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media4.giphy.com/media/3o7btOfPKQb7mCLxBu/giphy.gif?cid=ecf05e47931l4ybgqj52noqwesc4x6i2p5kz90ho1mgyrtio&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="right" height="150" src="https://forum.xda-developers.com/data/avatars/h/8365/8365575.jpg?1622774200"  />
 
 ###
 
@@ -49,6 +49,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/84Chirag/84Chirag/output/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/84Chirag/84Chirag/output/snake.svg" alt="Snake animation" />
 
 ###
