@@ -1,5 +1,6 @@
 ## Hi 👋! My name is Chirag Vijay Gour  
-### Web Developer from Thane, Maharashtra 🇮🇳
+### Software Developer from Thane, Maharashtra 🇮🇳
+#### Working at Corporate Buyings
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=84Chirag&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" />
@@ -41,13 +42,13 @@
 ### 🌐 Connect with Me
 
 <div align="left">
-  <a href="https://www.instagram.com/84chirag" target="_blank">
+  <a href="https://www.instagram.com/lazy_chirag" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-  <a href="mailto:chiraggour84@gmail.com" target="_blank">
+  <a href="mailto:chiragvgour@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/chirag-gour" target="_blank">
@@ -57,9 +58,6 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/84Chirag/84Chirag/output/snake.svg" alt="Snake animation" />
-
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=84Chirag&style=flat-square&color=blue" />
